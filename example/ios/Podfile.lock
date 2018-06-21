@@ -1,0 +1,28 @@
+PODS:
+  - Flutter (1.0.0)
+  - path_provider (0.0.1):
+    - Flutter
+  - pcm16khz_audio_recorder (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `.symlinks/flutter/ios`)
+  - path_provider (from `.symlinks/plugins/path_provider/ios`)
+  - pcm16khz_audio_recorder (from `.symlinks/plugins/pcm16khz_audio_recorder/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: ".symlinks/flutter/ios"
+  path_provider:
+    :path: ".symlinks/plugins/path_provider/ios"
+  pcm16khz_audio_recorder:
+    :path: ".symlinks/plugins/pcm16khz_audio_recorder/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 9d0fac939486c9aba2809b7982dfdbb47a7b0296
+  path_provider: 09407919825bfe3c2deae39453b7a5b44f467873
+  pcm16khz_audio_recorder: 38dee0831b3c01a1dbb56fd1d52448c742fbcdf3
+
+PODFILE CHECKSUM: 7765ea4305eaab0b3dfd384c7de11902aa3195fd
+
+COCOAPODS: 1.5.3
