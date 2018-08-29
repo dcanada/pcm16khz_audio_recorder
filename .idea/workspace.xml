@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="19408b72-5262-4caf-9149-ee249b241a93" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/.packages" afterPath="$PROJECT_DIR$/.packages" />
+      <change beforePath="$PROJECT_DIR$/example/pubspec.lock" afterPath="$PROJECT_DIR$/example/pubspec.lock" />
+      <change beforePath="$PROJECT_DIR$/pubspec.lock" afterPath="$PROJECT_DIR$/pubspec.lock" />
+      <change beforePath="$PROJECT_DIR$/pubspec.yaml" afterPath="$PROJECT_DIR$/pubspec.yaml" />
     </list>
     <ignored path="$PROJECT_DIR$/.dart_tool/" />
     <ignored path="$PROJECT_DIR$/.pub/" />
@@ -31,19 +35,21 @@
       <file leaf-file-name="pubspec.yaml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pubspec.yaml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+            <state relative-caret-position="168">
+              <caret line="14" column="21" lean-forward="false" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pcm16khz_audio_recorder.dart" pinned="false" current-in-tab="false">
+      <file leaf-file-name="pcm16khz_audio_recorder.dart" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/pcm16khz_audio_recorder.dart">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1320">
+            <state relative-caret-position="1368">
               <caret line="114" column="0" lean-forward="false" selection-start-line="114" selection-start-column="0" selection-end-line="114" selection-end-column="0" />
-              <folding />
+              <folding>
+                <element signature="e#0#20#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -63,8 +69,8 @@
       <file leaf-file-name="Pcm16khzAudioRecorderPlugin.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/android/src/main/java/com/danielthornhill/flutter/audiorecorder/pcm16khzaudiorecorder/Pcm16khzAudioRecorderPlugin.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1584">
-              <caret line="132" column="0" lean-forward="false" selection-start-line="132" selection-start-column="0" selection-end-line="132" selection-end-column="0" />
+            <state relative-caret-position="96">
+              <caret line="25" column="13" lean-forward="false" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#1378#1379#0" expanded="true" />
@@ -94,7 +100,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SwiftPcm16khzAudioRecorderPlugin.swift" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SwiftPcm16khzAudioRecorderPlugin.swift" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ios/Classes/SwiftPcm16khzAudioRecorderPlugin.swift">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1164">
@@ -122,13 +128,13 @@
         <option value="$PROJECT_DIR$/example/test/widget_test.dart" />
         <option value="$PROJECT_DIR$/android/src/main/java/com/danielthornhill/flutter/audiorecorder/pcm16khzaudiorecorder/Pcm16khzAudioRecorderPlugin.java" />
         <option value="$PROJECT_DIR$/ios/Classes/SwiftPcm16khzAudioRecorderPlugin.swift" />
-        <option value="$PROJECT_DIR$/pubspec.yaml" />
         <option value="$PROJECT_DIR$/lib/pcm16khz_audio_recorder.dart" />
         <option value="$PROJECT_DIR$/example/lib/main.dart" />
+        <option value="$PROJECT_DIR$/pubspec.yaml" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
     <option name="y" value="23" />
     <option name="width" value="1280" />
     <option name="height" value="1417" />
@@ -155,8 +161,8 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
-      <pane id="AndroidView" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -214,7 +220,7 @@
         </subPane>
         <option name="show-excluded-files" value="false" />
       </pane>
-      <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -343,28 +349,28 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="2560" height="1440" extended-state="0" />
+    <frame x="0" y="0" width="2560" height="1440" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3513308" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3507353" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Dart Analysis" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960525" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20882353" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20882353" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960525" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Flutter Outline" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16283676" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16561015" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Flutter Inspector" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16244057" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Flutter Inspector" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16204438" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -387,119 +393,9 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pcm16khz_audio_recorder.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pubspec.yaml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pcm16khz_audio_recorder.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pubspec.yaml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../../Tools/flutter/packages/flutter/lib/src/services/platform_channel.dart">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pubspec.yaml" />
-    <entry file="file://$PROJECT_DIR$/android/build.gradle" />
-    <entry file="file://$PROJECT_DIR$/../../../Tools/flutter/packages/flutter/lib/src/services/platform_channel.dart">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3216">
-          <caret line="277" column="6" lean-forward="false" selection-start-line="277" selection-start-column="6" selection-end-line="277" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/example/lib/main.dart" />
-    <entry file="file://$PROJECT_DIR$/pcm16khz_audio_recorder.iml" />
-    <entry file="file://$PROJECT_DIR$/example/test/widget_test.dart" />
-    <entry file="file://$PROJECT_DIR$/example/pubspec.yaml" />
-    <entry file="file://$PROJECT_DIR$/lib/pcm16khz_audio_recorder.dart" />
-    <entry file="file://$PROJECT_DIR$/android/src/main/java/com/jordanalcaraz/audiorecorder/audiorecorder/pcm16khzaudiorecorder/Pcm16khzAudioRecorderPlugin.java" />
-    <entry file="file://$PROJECT_DIR$/android/build.gradle" />
-    <entry file="file://$PROJECT_DIR$/ios/Classes/SwiftPcm16khzAudioRecorderPlugin.swift" />
-    <entry file="file://$PROJECT_DIR$/../../../Tools/flutter/packages/flutter/lib/src/services/platform_channel.dart">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3216">
-          <caret line="277" column="6" lean-forward="false" selection-start-line="277" selection-start-column="6" selection-end-line="277" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ios/Classes/Pcm16khzAudioRecorderPlugin.m" />
-    <entry file="file://$PROJECT_DIR$/example/lib/main.dart" />
-    <entry file="file://$PROJECT_DIR$/example/test/widget_test.dart" />
-    <entry file="file://$PROJECT_DIR$/example/pubspec.yaml" />
-    <entry file="file://$PROJECT_DIR$/pubspec.yaml" />
-    <entry file="file://$PROJECT_DIR$/lib/pcm16khz_audio_recorder.dart" />
-    <entry file="file://$PROJECT_DIR$/android/src/main/java/com/jordanalcaraz/audiorecorder/audiorecorder/pcm16khzaudiorecorder/Pcm16khzAudioRecorderPlugin.java" />
-    <entry file="file://$PROJECT_DIR$/android/build.gradle" />
-    <entry file="file://$PROJECT_DIR$/ios/Classes/SwiftPcm16khzAudioRecorderPlugin.swift" />
-    <entry file="file://$PROJECT_DIR$/../../../Tools/flutter/packages/flutter/lib/src/services/platform_channel.dart">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3216">
-          <caret line="277" column="6" lean-forward="false" selection-start-line="277" selection-start-column="6" selection-end-line="277" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ios/Classes/Pcm16khzAudioRecorderPlugin.m" />
-    <entry file="file://$PROJECT_DIR$/example/lib/main.dart" />
-    <entry file="file://$PROJECT_DIR$/example/test/widget_test.dart" />
-    <entry file="file://$PROJECT_DIR$/example/pubspec.yaml" />
-    <entry file="file://$PROJECT_DIR$/pubspec.yaml" />
-    <entry file="file://$PROJECT_DIR$/../../../Tools/flutter/packages/flutter/lib/src/services/platform_channel.dart">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="832">
-          <caret line="277" column="6" lean-forward="false" selection-start-line="277" selection-start-column="6" selection-end-line="277" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/android/build.gradle" />
-    <entry file="file://$PROJECT_DIR$/example/pubspec.yaml" />
-    <entry file="file://$PROJECT_DIR$/example/test/widget_test.dart" />
-    <entry file="file://$PROJECT_DIR$/README.md" />
-    <entry file="file://$PROJECT_DIR$/pubspec.lock" />
-    <entry file="file://$PROJECT_DIR$/android/src/main/java/com/jordanalcaraz/audiorecorder/audiorecorder/pcm16khzaudiorecorder/Pcm16khzAudioRecorderPlugin.java" />
-    <entry file="file://$PROJECT_DIR$/pcm16khz_audio_recorder.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/android/src/main/java/com/danielthornhill/flutter/audiorecorder/pcm16khzaudiorecorder/Pcm16khzAudioRecorderPlugin.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1584">
+        <state relative-caret-position="1356">
           <caret line="132" column="0" lean-forward="false" selection-start-line="132" selection-start-column="0" selection-end-line="132" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -525,18 +421,131 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pubspec.yaml">
+    <entry file="file://$PROJECT_DIR$/ios/Classes/SwiftPcm16khzAudioRecorderPlugin.swift">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        <state relative-caret-position="1164">
+          <caret line="97" column="0" lean-forward="false" selection-start-line="97" selection-start-column="0" selection-end-line="97" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/pcm16khz_audio_recorder.dart">
+    <entry file="file://$PROJECT_DIR$/pcm16khz_audio_recorder.iml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1320">
-          <caret line="114" column="0" lean-forward="false" selection-start-line="114" selection-start-column="0" selection-end-line="114" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pubspec.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pcm16khz_audio_recorder.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pubspec.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Tools/flutter/packages/flutter/lib/src/services/platform_channel.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pubspec.yaml" />
+    <entry file="file://$PROJECT_DIR$/android/build.gradle" />
+    <entry file="file://$PROJECT_DIR$/../../../Tools/flutter/packages/flutter/lib/src/services/platform_channel.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3216">
+          <caret line="277" column="6" lean-forward="false" selection-start-line="277" selection-start-column="6" selection-end-line="277" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example/lib/main.dart" />
+    <entry file="file://$PROJECT_DIR$/pcm16khz_audio_recorder.iml" />
+    <entry file="file://$PROJECT_DIR$/example/test/widget_test.dart" />
+    <entry file="file://$PROJECT_DIR$/example/pubspec.yaml" />
+    <entry file="file://$PROJECT_DIR$/lib/pcm16khz_audio_recorder.dart" />
+    <entry file="file://$PROJECT_DIR$/android/src/main/java/com/jordanalcaraz/audiorecorder/audiorecorder/pcm16khzaudiorecorder/Pcm16khzAudioRecorderPlugin.java" />
+    <entry file="file://$PROJECT_DIR$/android/build.gradle" />
+    <entry file="file://$PROJECT_DIR$/ios/Classes/SwiftPcm16khzAudioRecorderPlugin.swift" />
+    <entry file="file://$PROJECT_DIR$/../../../Tools/flutter/packages/flutter/lib/src/services/platform_channel.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3216">
+          <caret line="277" column="6" lean-forward="false" selection-start-line="277" selection-start-column="6" selection-end-line="277" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ios/Classes/Pcm16khzAudioRecorderPlugin.m" />
+    <entry file="file://$PROJECT_DIR$/example/lib/main.dart" />
+    <entry file="file://$PROJECT_DIR$/example/test/widget_test.dart" />
+    <entry file="file://$PROJECT_DIR$/example/pubspec.yaml" />
+    <entry file="file://$PROJECT_DIR$/pubspec.yaml" />
+    <entry file="file://$PROJECT_DIR$/lib/pcm16khz_audio_recorder.dart" />
+    <entry file="file://$PROJECT_DIR$/android/src/main/java/com/jordanalcaraz/audiorecorder/audiorecorder/pcm16khzaudiorecorder/Pcm16khzAudioRecorderPlugin.java" />
+    <entry file="file://$PROJECT_DIR$/android/build.gradle" />
+    <entry file="file://$PROJECT_DIR$/ios/Classes/SwiftPcm16khzAudioRecorderPlugin.swift" />
+    <entry file="file://$PROJECT_DIR$/../../../Tools/flutter/packages/flutter/lib/src/services/platform_channel.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3216">
+          <caret line="277" column="6" lean-forward="false" selection-start-line="277" selection-start-column="6" selection-end-line="277" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ios/Classes/Pcm16khzAudioRecorderPlugin.m" />
+    <entry file="file://$PROJECT_DIR$/example/lib/main.dart" />
+    <entry file="file://$PROJECT_DIR$/example/test/widget_test.dart" />
+    <entry file="file://$PROJECT_DIR$/example/pubspec.yaml" />
+    <entry file="file://$PROJECT_DIR$/pubspec.yaml" />
+    <entry file="file://$PROJECT_DIR$/../../../Tools/flutter/packages/flutter/lib/src/services/platform_channel.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="832">
+          <caret line="277" column="6" lean-forward="false" selection-start-line="277" selection-start-column="6" selection-end-line="277" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/android/build.gradle" />
+    <entry file="file://$PROJECT_DIR$/example/pubspec.yaml" />
+    <entry file="file://$PROJECT_DIR$/example/test/widget_test.dart" />
+    <entry file="file://$PROJECT_DIR$/README.md" />
+    <entry file="file://$PROJECT_DIR$/pubspec.lock" />
+    <entry file="file://$PROJECT_DIR$/android/src/main/java/com/jordanalcaraz/audiorecorder/audiorecorder/pcm16khzaudiorecorder/Pcm16khzAudioRecorderPlugin.java" />
+    <entry file="file://$PROJECT_DIR$/pcm16khz_audio_recorder.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ios/Classes/Pcm16khzAudioRecorderPlugin.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ios/Classes/Pcm16khzAudioRecorderPlugin.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -551,11 +560,41 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/android/src/main/java/com/danielthornhill/flutter/audiorecorder/pcm16khzaudiorecorder/Pcm16khzAudioRecorderPlugin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="25" column="13" lean-forward="false" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1378#1379#0" expanded="true" />
+            <element signature="e#1414#1415#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ios/Classes/SwiftPcm16khzAudioRecorderPlugin.swift">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1164">
           <caret line="97" column="0" lean-forward="false" selection-start-line="97" selection-start-column="0" selection-end-line="97" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pubspec.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="14" column="21" lean-forward="false" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/pcm16khz_audio_recorder.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1368">
+          <caret line="114" column="0" lean-forward="false" selection-start-line="114" selection-start-column="0" selection-end-line="114" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
