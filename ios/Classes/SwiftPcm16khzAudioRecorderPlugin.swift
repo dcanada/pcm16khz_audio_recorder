@@ -16,7 +16,7 @@ public class SwiftPcm16khzAudioRecorderPlugin: NSObject, FlutterPlugin, AVAudioR
     registrar.addMethodCallDelegate(instance, channel: channel)
   }
 
-public func handle(_ call: FlutterMethodCall, result: @escaping FlutterResult) {
+  public func handle(_ call: FlutterMethodCall, result: @escaping FlutterResult) {
     switch call.method {
         case "start":
             print("start")
@@ -36,6 +36,9 @@ public func handle(_ call: FlutterMethodCall, result: @escaping FlutterResult) {
                 AVEncoderAudioQualityKey: AVAudioQuality.high.rawValue
             ]
             do {
+                try AVAudioSession.sharedInstance().setCategory(AVAudioSessionCategoryPlayAndRecord, with: AVAudioSessionCategoryOptions.defaultToSpeaker)
+                try AVAudioSession.sharedInstance().setActive(true)
+                
                 audioRecorder = try AVAudioRecorder(url: URL(string: mPath)!, settings: settings)
                 audioRecorder.delegate = self
                 audioRecorder.record()
